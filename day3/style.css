@@ -1,0 +1,66 @@
+body{
+  background-color: rgba(255, 192, 203, 0.425);
+}
+.name{
+  color:rgb(10, 154, 154);
+}
+  .navbar {
+
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  .navmenu{
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    column-gap: 50px;
+  }
+  
+  .navbar a {
+    display: block; 
+    color: rgb(10, 154, 154); 
+    text-align: left; 
+    margin-right: 5px 10px;
+    text-decoration: none; 
+  }
+  
+ 
+  .navbar a:hover {
+    background-color: #ba5590; 
+    padding: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(pink blue green);
+  }
+
+  .profile{
+    display: flex;
+  }
+
+  .about{
+    color: rgb(10, 154, 154);
+    text-align: center;
+
+  }
+
+  img{
+    width: 400px;
+    height: 400px;
+    margin-right: 20%;
+  }
+
+ .anshu{
+  
+}
+.skills{
+  display: flex;
+  list-style: none;
+  gap: 24px;
+  justify-content: center;
+  color: rgb(10, 154, 154);
+
+}
+.skills wraper{
+  margin-top: 64px;
+}

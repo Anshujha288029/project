@@ -1,0 +1,136 @@
+h1 {
+
+    background-color: brown;
+    color: blanchedalmond;
+
+}
+
+.container1 {
+    color: aliceblue;
+    background-color: rgb(232, 232, 13);
+    border: 2px solid black;
+}
+
+.circle {
+    border: 7px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.😊😊 {
+    border: 5px solid red;
+    padding: 10px;
+}
+
+.box1 {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    padding-top: 50px;
+}
+
+h4 {
+    width: 200px;
+    border: solid green 20px;
+    height: 200px;
+    background-color: pink;
+    margin: 20px;
+    border-radius: 30px;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px blue;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.parent {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 20px;
+    margin-right: 200px;
+
+}
+
+.child {
+    position: absolute;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(19, 18, 19);
+    border-radius: 20px;
+}
+
+
+.parents {
+    display: flex;
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+    border-radius: 20px;
+    padding-top: 100px;
+    margin-bottom: 10px;
+    gap: 15px;
+    flex-direction: row;
+    margin-right: 15px;
+    flex-wrap: wrap;
+
+}
+
+.box2 {
+    width: 90px;
+    height: 90px;
+    background-color: rgb(19, 18, 19);
+    
+}
+
+.box3 {
+    width: 90px;
+    height: 90px;
+    background-color: rgb(194, 25, 194);
+}
+.box4{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(249, 203, 249)
+}
+.box5{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(35, 5, 155)
+}
+.box6{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(35, 5, 155)
+}
+.box7{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(35, 5, 155)
+}
+.box8{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(35, 5, 155)
+}
+.box9{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(35, 5, 155)
+}
+.box10{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(35, 5, 155)
+}
